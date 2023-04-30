@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srivastavshrey
 - 👀 I’m interested in Building Web Applications
 - 🌱 I’m currently learning Node.Js
-- 💞️ I’m looking to collaborate on Backend Projects.
+- 💞️ I’m looking to collaborate on Reactjs and javascript Projects.
 - 📫 How to reach me mailto:shreysrivastav21@gmail.com
 
 <!---
